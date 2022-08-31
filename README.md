@@ -3,8 +3,13 @@ This repository is a sample of how to use Android Orange Box application to cont
 
 With the Orange Box you can easilly command a 4-axis robotic arm, controlling the movement speed and sending 4 commands to you microcontroller.
 
+Components
+- Arduino UNO
+- HC-05 Bluetooth Module 
+- Micro-servo motor
+
 1. Build the eletronic circuit.
-<img src="https://user-images.githubusercontent.com/65542005/187673591-49a11046-168c-4ac5-8ff4-9fc51f8d9968.png" width="450px">
+<img src="https://user-images.githubusercontent.com/65542005/187675193-476dd664-148b-4d1e-8e82-c29645382527.png" width="450px">
 
 2. Use the example code for Arduino.
 
