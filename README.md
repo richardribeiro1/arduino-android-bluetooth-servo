@@ -20,10 +20,11 @@ With the Orange Box you can easilly command a 4-axis robotic arm, controlling th
 ## Tutorial
 1. Build the eletronic circuit.
 <div align="center">
-<img src="https://user-images.githubusercontent.com/65542005/187675193-476dd664-148b-4d1e-8e82-c29645382527.png" width="450px">
+<img src="https://user-images.githubusercontent.com/65542005/187976370-e414fffe-040b-4535-91a6-142f2f65fcef.png" width="450px">
 </div>
 
-2. Use the example code for Arduino.
+2. Use the example code for Arduino. 
+- Configure your bluetooth module to 9600 baudrate. Use the datasheet and the ConfigBluetooth.ino example.
 
 3. Download the Orange Box app on Google Play.
 
