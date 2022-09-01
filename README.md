@@ -44,7 +44,7 @@ It's <strong>important</strong> you give the necessary permissions to your app.
 ## Youtube Video Tutorial
 
 ## PDF with command strings and data pattern:
-[Orange Box - String and Data Pattern - v1.0.pdf](https://github.com/richardribeiro1/arduino-android-bluetooth-servo/files/9469507/Orange.Box.-.String.and.Data.Pattern.-.v1.0.pdf)
+[String Pattern V1.0.pdf](https://github.com/richardribeiro1/arduino-android-bluetooth-servo/files/9472733/String.Pattern.V1.0.pdf)
 
 ## References
 - https://www.arduino.cc/reference/en/libraries/servo/
