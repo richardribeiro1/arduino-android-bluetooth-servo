@@ -24,7 +24,7 @@ With the Orange Box you can easilly command a 4-axis robotic arm, controlling th
 </div>
 
 2. Use the example code for Arduino. 
-- Configure your bluetooth module to 9600 baudrate. Use the datasheet and the ConfigBluetooth.ino example.
+- Configure your bluetooth module to 9600 baudrate. Use the datasheet, AT commands and the ConfigBluetooth.ino example.
 
 3. Download the Orange Box app on Google Play.
 
