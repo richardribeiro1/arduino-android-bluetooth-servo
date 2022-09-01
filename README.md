@@ -36,7 +36,7 @@ It's <strong>important</strong> you give the necessary permissions to your app.
 6. Once connected, you can control your servos, speed, send commands, dimmer LEDs and other.
 
 <div align="center">
-<video src="https://user-images.githubusercontent.com/65542005/187903210-35363d1e-ced0-4628-b4e8-f874c80e61e0.mp4" autoplay>
+<video src="https://user-images.githubusercontent.com/65542005/187995402-96565116-8dcc-476c-90f2-f9dd4d4c496c.mp4" autoplay>
 </div>
 
 7. Feel free to use and adapt the command strings to your use. For example to dimmer a LED.
